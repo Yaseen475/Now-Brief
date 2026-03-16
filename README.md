@@ -9,6 +9,8 @@ and a fully functional settings page where you can toggle cards on and off,
 switch between Celsius and Fahrenheit, change the accent colour, pick your city, and enable or disable dark mode.
 It runs in any browser and can be added to your phone's home screen — no app store required.
 
+(None Of The Info Is Real Its Just To Visulise What It Would Actually Look Like)
+
 
 
 Hope You Enjoy This Recreation, This Took Me A Long Time To Create, So I Hope You Like It!
