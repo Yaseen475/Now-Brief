@@ -16,4 +16,4 @@ It runs in any browser and can be added to your phone's home screen — no app s
 Hope You Enjoy This Recreation, This Took Me A Long Time To Create, So I Hope You Like It!
 
 
-Also side note I porbably wont make a version for IOS Bcz IOS Doesnt need Now Brief, and I wont Add any adds bcz im not a supporter for them and believe all apps shouldnt have adds.
+Also side note I probably wont make a version for IOS Bcz IOS Doesnt need Now Brief, and I wont Add any adds bcz im not a supporter for them and believe all apps shouldnt have adds.
