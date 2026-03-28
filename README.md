@@ -17,3 +17,6 @@ without needing to open multiple apps.
 🚗 Travel or commute updates
 
 Throughout the day, Now Brief updates automatically (morning, afternoon, and evening) so you always see the most relevant info when you need it. ⏰📲
+
+
+MAJOR Redisign UpComing with v6.0.0
