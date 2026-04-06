@@ -20,3 +20,4 @@ Throughout the day, Now Brief updates automatically (morning, afternoon, and eve
 
 
 MAJOR Change in the making of Now Brief here in V7.0.0
+(little side note google will try and stop you from downloading this, Dont worry its bcz i dont have a licence plus i dont want your data)
