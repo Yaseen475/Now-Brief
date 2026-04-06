@@ -19,4 +19,4 @@ without needing to open multiple apps.
 Throughout the day, Now Brief updates automatically (morning, afternoon, and evening) so you always see the most relevant info when you need it. ⏰📲
 
 
-MAJOR Redisign UpComing with v6.0.0
+MAJOR Change in the making of Now Brief here in V7.0.0
